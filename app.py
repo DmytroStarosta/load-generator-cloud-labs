@@ -1,5 +1,5 @@
 import asyncio
-from project.generator_load import start_generator_load
+from project.load_generator import start_generator_load
 from my import MY_URL
 
 URL = MY_URL
